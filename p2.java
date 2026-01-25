@@ -6,6 +6,7 @@ public class p2 {
         a=sc.nextInt();
         b=sc.nextInt();
         s=a+b;
+        p=a*b;
         System.out.println(s);
         sc.close();
      
